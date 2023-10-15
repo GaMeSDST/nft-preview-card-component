@@ -53,8 +53,9 @@ html, body {
 }
 
 .eye:hover {
-    background:hsla(178, 100%, 50%, 0.5) ;
+    background:hsla(178, 100%, 50%, 0.5);
     opacity: 1;
+    cursor: pointer;
 }
 
 .main-img {
